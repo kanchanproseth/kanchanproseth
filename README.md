@@ -1,5 +1,5 @@
 * 👋 Hi, I’m Proseth. I work in iOS Development.
-* 🤯 I'd like to try new things either things.
+* 🤯 I'd like to try new things.
 * 🏰 I’m currently pursue my master degree in Maharishi University
 * 💞️ I’m looking to collaborate on ...
 * 📫 How to reach me ...
