@@ -1,7 +1,7 @@
-* 👋 Hi, I’m Proseth. I work in iOS Development.
+* 👋 Hi, I’m Proseth. I am an iOS Developer.
 * 🤯 I'd like to try new things.
 * 🏰 I’m currently pursue my master degree in Maharishi University
-* 💞️ I’m looking to collaborate on ...
+* 🥷 I’m looking to collaborate on ...
 * 📫 How to reach me ...
 
 🚀 Linkedin https://www.linkedin.com/in/kan-chanproseth
@@ -13,7 +13,6 @@
 
 ![alt text](https://github.com/kanchanproseth/kanchanproseth/blob/main/b1.jpg)
 
-❤️‍🔥 JayzleBee 🐝
 
 <!---
 kanchanproseth/kanchanproseth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
