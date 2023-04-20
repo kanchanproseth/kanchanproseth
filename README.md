@@ -4,7 +4,7 @@
 * 🥷 I’m looking to collaborate on ...
 * 📫 How to reach me ...
 
-🚀 Linkedin https://www.linkedin.com/in/kan-chanproseth
+🚀 Linkedin https://www.linkedin.com/in/chanprosethkan/
 
 
 🚀 My Portfolio https://porfolio.chanproseth-dev.site
