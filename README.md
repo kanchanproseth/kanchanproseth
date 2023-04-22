@@ -9,9 +9,6 @@
 
 ### CAREER NOTE: Completed on-campus studies and currently taking distance education courses to complete a Master’s Degree in Computer Science (Available for full-time, W-2 employment).
 
-![image](https://user-images.githubusercontent.com/10096187/233665703-a2767e56-e60b-49e8-bacc-057544b25cba.png)
-
-
 ####  👿 Dark Eternal Code  👿
 
 ![alt text](https://github.com/kanchanproseth/kanchanproseth/blob/main/b1.jpg)
