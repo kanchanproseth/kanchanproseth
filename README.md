@@ -7,8 +7,6 @@
 
 🚀 My Portfolio https://porfolio.chanproseth-dev.site
 
-### CAREER NOTE: Completed on-campus studies and currently taking distance education courses to complete a Master’s Degree in Computer Science (Available for full-time, W-2 employment).
-
 ####  👿 Dark Eternal Code  👿
 
 ![alt text](https://github.com/kanchanproseth/kanchanproseth/blob/main/b1.jpg)
