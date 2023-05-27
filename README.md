@@ -1,13 +1,11 @@
-* 👋 Hi, I’m Proseth. I am a Senior iOS Developer.
+* 👋 Hi, I’m Proseth. I am an iOS Developer.
 * 🤯 I'd like to try new things.
 * 📫 How to reach me ...
 
 🚀 Linkedin https://www.linkedin.com/in/chanprosethkan/
 
-
 🚀 My Portfolio https://porfolio.chanproseth-dev.site
 
-####  👿 Dark Eternal Code  👿
 
 ![alt text](https://github.com/kanchanproseth/kanchanproseth/blob/main/b1.jpg)
 
