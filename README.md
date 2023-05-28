@@ -1,5 +1,5 @@
 * 👋 Hi, I’m Proseth. I am an iOS Developer.
-* 🤯 I'd like to try new things.
+* 🚀 I'd like to try new things.
 * 📫 How to reach me ...
 
 🚀 Linkedin https://www.linkedin.com/in/chanprosethkan/
