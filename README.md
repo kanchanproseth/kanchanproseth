@@ -4,7 +4,7 @@
 
 🚀 Linkedin https://www.linkedin.com/in/chanprosethkan/
 
-🚀 My Portfolio https://porfolio.chanproseth-dev.site
+🚀 My Portfolio https://portfolio.chanproseth-dev.site
 
 
 ![alt text](https://github.com/kanchanproseth/kanchanproseth/blob/main/b1.jpg)
