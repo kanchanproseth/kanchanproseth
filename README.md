@@ -8,7 +8,29 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&lines=8%2B+Years+iOS+Experience;Building+Fintech+Apps+at+Scale;SwiftUI+%7C+UIKit+Expert;AI+%2B+Mobile+Innovation" />
 </p>
 
----
+## 🛠 Skills
+
+![OpenAI](https://img.shields.io/badge/OpenAI-black?logo=openai)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-purple)
+![LLM](https://img.shields.io/badge/LLM-blue)
+![RAG](https://img.shields.io/badge/RAG-green)
+![RAG Pipeline](https://img.shields.io/badge/RAG%20Pipeline-green)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-blue)
+![Swift](https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-blue?logo=apple&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-black?logo=apple&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?logo=swift&logoColor=white)
+![Combine](https://img.shields.io/badge/Combine-purple)
+![RxSwift](https://img.shields.io/badge/RxSwift-b7178c)
+![Core Data](https://img.shields.io/badge/CoreData-grey)
+![Realm](https://img.shields.io/badge/Realm-blue)
+![Alamofire](https://img.shields.io/badge/Alamofire-red)
+![Moya](https://img.shields.io/badge/Moya-black)
+![Git](https://img.shields.io/badge/Git-black?logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-red?logo=jenkins)
+![Fastlane](https://img.shields.io/badge/Fastlane-purple)
+![XCTest](https://img.shields.io/badge/XCTest-blue)
+![XCUITest](https://img.shields.io/badge/XCUITest-blue)
 
 ## 🧠 About Me
 
@@ -123,18 +145,13 @@ Senior iOS engineer with **8+ years of experience** building high-performance mo
 
 ---
 
-## 🖼️
-
-<p align="center">
-  <img src="https://github.com/kanchanproseth/kanchanproseth/blob/main/b1.jpg" width="700"/>
-</p>
-
----
-
 ## 💭 Philosophy
 
 > “Build systems that scale — and evolve with the future.”
 
----
 
-⭐️ From [Proseth](https://github.com/kanchanproseth)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kanchanproseth/kanchanproseth/main/banner.png" width="100%" />
+</p>
+
+
