@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&lines=8%2B+Years+iOS+Experience;Building+Fintech+Apps+at+Scale;SwiftUI+%7C+UIKit+Expert;AI+%2B+Mobile+Innovation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&lines=8%2B+Years+iOS+Experience;Craft+Fintech+Apps+at+Scale;SwiftUI+%7C+UIKit+Expert;AI+%2B+Mobile+Innovation" />
 </p>
 
 ## 🛠 Skills
